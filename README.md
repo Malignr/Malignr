@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malignr
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning React.Js,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
